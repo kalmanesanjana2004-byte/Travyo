@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "axios": "*",
+    "mongoose": "^9.2.4",
     "react": "*",
     "react-dom": "*",
     "react-router-dom": "*"
